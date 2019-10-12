@@ -35,6 +35,7 @@ def main():
 
     model = model.cuda()
     torch.backends.cudnn.benchmark = False
+    model.eval()
 
     list_frames = [f for f in os.listdir(path_sample) if os.path.isfile(os.path.join(path_sample, f))]
     list_frames.sort()

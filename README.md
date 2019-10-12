@@ -21,11 +21,11 @@ This will output the top 5 Kinetics classes predicted by the model with correspo
 
 ```
 Top 5 classes ... with probability
-riding a bike ... 0.88421476
-riding scooter ... 0.05233049
-motorcycling ... 0.029078288
-riding unicycle ... 0.008401934
-faceplanting ... 0.005443991
+riding a bike ... 0.9937429
+biking through snow ... 0.0041600233
+riding mountain bike ... 0.0010456557
+riding unicycle ... 0.00088055385
+motorcycling ... 0.00014455811
 ```
 
 ## Notes
