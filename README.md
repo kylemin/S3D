@@ -29,13 +29,14 @@ motorcycling ... 0.00014455811
 ```
 
 ## Notes
-We implement and release this repository together with our [TASED-Net project](https://github.com/kylemin/TASED-Net.git). If you find it useful, you might want to consider citing our work.
+We implement and release this repository together with our [TASED-Net project (ICCV 2019)](https://github.com/kylemin/TASED-Net.git). If you find it useful, you might want to consider citing our work.
 
 ```
-@article{min2019tased,
+@inproceedings{min2019tased,
   title={TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection},
   author={Min, Kyle and Corso, Jason J},
-  journal={arXiv preprint arXiv:1908.05786},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2394--2403},
   year={2019}
 }
 ```
