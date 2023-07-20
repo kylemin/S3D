@@ -11,7 +11,7 @@ In this repository, we release the pretrained S3D network in PyTorch. We pretrai
 | S3D (our implementation) | 72.1 | 90.4 |
 
 ## Weight file & Sample code
-First, clone this repository and download [this weight file](https://drive.google.com/uc?export=download&id=1HJVDBOQpnTMDVUM3SsXLy0HUkf_wryGO). Then, just run the code using
+First, clone this repository and download [this weight file](https://drive.google.com/file/d/1IysdsJI7UuWazoxFyYvrbO97Lz_EP5H-/view?usp=sharing). Then, just run the code using
 
 `$ python main.py`
 
